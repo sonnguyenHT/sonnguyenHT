@@ -15,9 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there, I'm Son Nguyen 👋
 
-[![Website](https://img.shields.io/website?label=sircodes.xyz&style=for-the-badge&url=http%3A%2F%2Fsircodes.xyz)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/LeMinhThong19?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
-
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Thong Le | 💻 Junio devops engineer | Ho Chi Minh City, Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
@@ -37,7 +34,7 @@ Talk to me about
 
 ### Connect with me:
 
-[<img align="left" alt="sirdev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sonnguyenHT" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="sonnguyenHT | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
