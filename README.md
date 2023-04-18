@@ -39,4 +39,4 @@ Talk to me about
 </p>
 
 [github]: https://github.com/sonnguyenHT
-[linkedin]: https://www.linkedin.com/in/s%C6%A1n-n-114539152/
+[linkedin]: https://www.linkedin.com/in/son-n-114539152/
