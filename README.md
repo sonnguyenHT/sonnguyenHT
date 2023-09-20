@@ -16,10 +16,10 @@ You can click the Preview link to take a look at your changes.
 Talk to me about
 
 -   Cloud Computing and Distributed System
--   Making for **Relational Database Management Systems**
--   Creating scalable cloud architecture using **AWS Cloud**
+-   Making for **Relational Database Management Systems**, **Distributed Document Database**
+-   Creating scalable cloud architecture using **AWS Cloud** **Azure Cloud**
 -   Solving Data structure and algorithm questions in **Python**
-
+-   Configuration and management languages **Terraform**, **Ansible**
 
 
 ### Connect with me:
@@ -29,14 +29,6 @@ Talk to me about
 <br />
 
 ---
-
-### Github Stats
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=sonnguyenHT&&show_icons=true"/>
-  </a>
-</p>
 
 [github]: https://github.com/sonnguyenHT
 [linkedin]: https://www.linkedin.com/in/son-n-114539152/
