@@ -32,3 +32,6 @@ Talk to me about
 
 [github]: https://github.com/sonnguyenHT
 [linkedin]: https://www.linkedin.com/in/son-n-114539152/
+
+### Leetcode
+![Leetcode Stats](https://leetcard.jacoblin.cool/TechWhizSon)
