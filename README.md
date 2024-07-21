@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # Hi there, I'm Son Nguyen 👋
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Son Nguyen | 💻 Junior devops engineer | Ho Chi Minh City, Vietnam <img src="https://giphy.com/embed/06vbLCWUQcDKGFVjPt" width="40"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Son Nguyen | 💻 Junior devops engineer | Ho Chi Minh City, Vietnam <img src="https://giphy.com/embed/06vbLCWUQcDKGFVjPt/giphy.gif" width="40"></h3>
 </div>
 
 ---
